@@ -51,5 +51,3 @@ Email: muhibali369@gmail.com
 LinkedIn: linkedin.com/in/muhib-ali 
 
 
----
-
