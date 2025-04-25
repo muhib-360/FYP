@@ -1,4 +1,4 @@
-# Multimodal Suicide Risk Detection
+# Multimodal Suicide Risk Detection using Deep Learning
 
 An AI-powered research project aiming to detect early signs of suicide risk using both **textual** and **visual** data. The system combines Natural Language Processing (NLP) and Computer Vision (CV) techniques to enhance the accuracy and reliability of mental health assessments.
 
@@ -48,6 +48,6 @@ For collaboration or inquiries, feel free to reach out:
 
 **Muhib Ali**  
 Email: muhibali369@gmail.com
-LinkedIn: linkedin.com/in/muhib-ali 
+LinkedIn: www.linkedin.com/in/muhib-ali   
 
---
+---
