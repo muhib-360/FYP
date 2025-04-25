@@ -48,6 +48,7 @@ For collaboration or inquiries, feel free to reach out:
 
 **Muhib Ali**  
 Email: muhibali369@gmail.com
-LinkedIn: www.linkedin.com/in/muhib-ali   
+
+LinkedIn: www.linkedin.com/in/muhib-ali 
 
 ---
