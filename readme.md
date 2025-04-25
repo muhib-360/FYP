@@ -2,7 +2,8 @@
 
 An AI-powered research project aiming to detect early signs of suicide risk using both **textual** and **visual** data. The system combines Natural Language Processing (NLP) and Computer Vision (CV) techniques to enhance the accuracy and reliability of mental health assessments.
 
-## 🚀 Project Status
+## 🚀 Project Status ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
 
 🔧 **In Development** — currently working on integrating DistilBERT for text analysis and YOLOv11 for visual behavior recognition.
 
@@ -51,7 +52,6 @@ Email: muhibali369@gmail.com
 
 LinkedIn: www.linkedin.com/in/muhib-ali 
 
-![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 
 ---
