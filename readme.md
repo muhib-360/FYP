@@ -51,4 +51,7 @@ Email: muhibali369@gmail.com
 
 LinkedIn: www.linkedin.com/in/muhib-ali 
 
+![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
+
+
 ---
