@@ -4,7 +4,7 @@ An AI-powered research project aiming to detect early signs of suicide risk usin
 
 ## 🚀 Project Status
 
-🔧 **In Development** — currently working on integrating DistilBERT for text analysis and YOLOv5 for visual behavior recognition.
+🔧 **In Development** — currently working on integrating DistilBERT for text analysis and YOLOv11 for visual behavior recognition.
 
 ## 🎯 Objective
 
@@ -21,14 +21,14 @@ This project is motivated by the rising suicide rates in countries like **Japan*
 - **Transformers (Hugging Face)**  
 - **DistilBERT** (fine-tuned)  
 - **Convolutional Neural Networks (CNN)**  
-- **YOLOv5** for real-time object and facial expression detection  
+- **YOLOv11** for real-time object and facial expression detection  
 - **Google Colab** for training and experimentation
 
 ## 📊 Current Progress
 
 - ✅ Fine-tuned **DistilBERT** for text classification with >90% validation accuracy  
 - ✅ Developed hybrid model **DistilBERT + CNN**  
-- ⏳ Integrating YOLOv5 for multimodal input  
+- ⏳ Integrating YOLOv11 for multimodal input  
 - 🔜 Training and evaluating on visual datasets
 
 ## 🔍 Future Work
@@ -47,9 +47,9 @@ This project is strictly for **research and academic purposes**. It is **not** a
 For collaboration or inquiries, feel free to reach out:
 
 **Muhib Ali**  
-Email: [your-email@example.com]  
-LinkedIn: [Your LinkedIn]  
-GitHub: [github.com/yourusername]
+Email: muhibali369@gmail.com
+LinkedIn: linkedin.com/in/muhib-ali 
+
 
 ---
 
