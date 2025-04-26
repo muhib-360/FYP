@@ -1,4 +1,6 @@
 # YOLOv11 for Suicidal Behavior Detection #
+![In Development](https://github.com/yourusername/yourrepo/blob/main/images/in-development-banner.png)
+
 
 - This project is currently in the development phase. We're exploring the potential of using YOLOv11 for detecting behavioral indicators related to suicide risk through visual data (e.g., facial expressions, body language, environment analysis). YOLOv11 is known for its high efficiency and real-time object detection capabilities, which may provide valuable insights in psychological assessments.
 
@@ -15,10 +17,4 @@
 - Additionally, we are looking into combining YOLOv11 with models like VisualBERT or similar architectures that can process both visual and textual modalities simultaneously for a more comprehensive analysis.
 
 
-
-# Project Demo
-
-[![Run Model](https://img.shields.io/badge/Run%20Model-Click%20Here-blue)](https://example.com/run-model)
-[![Documentation](https://img.shields.io/badge/Docs-Read%20Docs-orange)](https://example.com/docs)
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Repo-gray)](https://github.com/yourusername/yourrepo)
-
+---
