@@ -1,4 +1,4 @@
-**Dataset Overview
+**Dataset Overview**
 The dataset consists of Reddit posts from SuicideWatch, depression, and teenagers subreddits, collected using the Pushshift API. Posts are labeled as suicide or non-suicide, with 116,037 examples for each class, making it perfectly balanced.
 
 Cleaning and Preprocessing
