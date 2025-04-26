@@ -1,0 +1,1 @@
+-- Here's the link for training the DistilBERT model. You can access here : ([https://colab.research.google.com/drive/1evKOwmTPBPAInowj2q58qCBEjff39gZ0?usp=sharing)]
