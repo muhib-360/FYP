@@ -10,8 +10,8 @@ This project implements a hybrid DistilBERT-CNN model for suicide risk detection
 - Input: Raw text → Tokenized to 128 tokens
 - Output: Risk probability (0-1) with 93% recall on clinical datasets.
 
+![pic](https://github.com/user-attachments/assets/3446f6e4-d819-4c18-ae89-b994c145fa0e)
 
-![deepseek_mermaid_20250426_2cf129](https://github.com/user-attachments/assets/ded3d460-abc7-4108-af80-b3608a1b9f92)
 
 ## Why This Hybrid Approach?
 Model	Pros	Cons
