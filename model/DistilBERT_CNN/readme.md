@@ -22,7 +22,7 @@ graph LR
     subgraph DistilBERT["DistilBERT (6-layer)"]
         C --> D[Embeddings]
         D --> E[Transformer Layers]
-        E --> F["Contextual Embeddings\n[batch, 128, 768]"]
+        E --> F["Contextual Embeddings[batch, 128, 768]"]
     end
     
     %% CNN Block
