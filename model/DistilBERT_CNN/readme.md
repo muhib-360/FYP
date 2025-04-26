@@ -14,9 +14,10 @@ This project implements a hybrid DistilBERT-CNN model for suicide risk detection
 
 
 ## Why This Hybrid Approach?
-Model	Pros	Cons
-Pure DistilBERT	Context-aware	Misses local patterns
-Pure CNN	Good at n-grams	No contextual understanding
+Model |	Pros |	Cons |
+Pure DistilBERT |	Context-aware	| Misses local patterns
+Pure CNN	| Good at n-grams | No contextual understanding
+
 Our Hybrid	Best of both:
 • Context + local patterns
 • 17% higher recall than DistilBERT alone	Slightly slower inference
