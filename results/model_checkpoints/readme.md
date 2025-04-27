@@ -1,10 +1,10 @@
 # Model Checkpoints #
 Note : All the model training phase is executed using Google Colab T4 GPU.
--- For this project, there are many complexities involved when detecting suicidal risk through multimodal inputs. That's why I have tried multiple transformer models for text classification. Following are the models I finetuned for the suicide specific task.
+- For this project, there are many complexities involved when detecting suicidal risk through multimodal inputs. That's why I have tried multiple transformer models for text classification. Following are the models I finetuned for the suicide specific task.
 
 ## 1) DistilBERT ##
--- DistilBERT is a lighter, compressed version of BERT. The reason of using this model is simply performance. It achieves neck-to-neck performance having smaller in parameter size, so it's an ideal choice for text classification.
--- During training, the model was overfitting regardless of the loss functions and other strategies. So, I made several changes in training_parameters, token_size, dataset split in order to minimize the validation loss. After making the changes, I resumed the training progress and saved the best checkpoint based on lower validation loss
+- DistilBERT is a lighter, compressed version of BERT. The reason of using this model is simply performance. It achieves neck-to-neck performance having smaller in parameter size, so it's an ideal choice for text classification.
+- During training, the model was overfitting regardless of the loss functions and other strategies. So, I made several changes in training_parameters, token_size, dataset split in order to minimize the validation loss. After making the changes, I resumed the training progress and saved the best checkpoint based on lower validation loss
 
 ## Checkpoints ##
 
@@ -17,8 +17,8 @@ Note : All the model training phase is executed using Google Colab T4 GPU.
 
 
 ## 2) DistilBERT + CNN ##
--- Combined DistilBERT with CNN model to enhance the prediction accuracy. The tokenization process was done by DistilBERT, feeding tokens to the CNN and then CNN will extract the bi-grams, tri-grams features of words to learn the suicidal/non-suicdial behavior.
--- During training, I have to deal with many problems, made changes in model architecture in order to make inputs compatible for the models.
+- Combined DistilBERT with CNN model to enhance the prediction accuracy. The tokenization process was done by DistilBERT, feeding tokens to the CNN and then CNN will extract the bi-grams, tri-grams features of words to learn the suicidal/non-suicdial behavior.
+- During training, I have to deal with many problems, made changes in model architecture in order to make inputs compatible for the models.
 
 ## Checkpoints ##
 
