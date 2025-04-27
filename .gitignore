@@ -1,0 +1,11 @@
+# Ignore datasets
+datasets/
+
+# Ignore large result files
+results/model_checkpoints/
+results/training_logs/
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+.DS_Store
