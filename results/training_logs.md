@@ -27,7 +27,8 @@ Model Performance Metrics
 # 2) DistilBERT + CNN #
 
 - Training Logs
--- Manually resumed from epoch 20 (loaded checkpoint_epoch_20.pt)
+
+Manually resumed from epoch 20 (loaded checkpoint_epoch_20.pt)
 Epoch 21/24 [Train]:   0%|          | 0/5127 [00:00<?, ?it/s]<ipython-input-14-8e1ef5fb326c>:68: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
   with torch.cuda.amp.autocast():
 Epoch 21/24 [Train]: 100%|██████████| 5127/5127 [31:32<00:00,  2.71it/s]
