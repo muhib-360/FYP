@@ -1,7 +1,7 @@
 # Training Logs & Results #
 ## 1) DistilBERT ##
 
--- Training Logs
+- Training Logs
 
 Model Performance Metrics
 
